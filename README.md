@@ -1,6 +1,7 @@
 # Academic Project Page Template
 This is an academic paper project page template.
 
+<img src="https://github.com/nlp4sdoh/review/blob/master/static/images/projectlogo.gif" alt="My GIF" width="400"/>
 
 Example project pages built using this template are:
 - https://vision.huji.ac.il/spectral_detuning/
