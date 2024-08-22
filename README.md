@@ -9,7 +9,7 @@
    ![GitHub Repo stars](https://img.shields.io/github/stars/nlp4sdoh/review?logoColor=%23C8A2C8&color=%23DCC6E0)
 </h5>
 
-This is an actively updated list of practical guide resources for Medical Large Language Models (Medical LLMs). 
+This is an actively updated list of practical guide resources for Natural Language Processing & Large Language Models for Social Determinants of Health (SDOH). 
 It's based on our survey paper: 
 
 ##  📣 Update News
