@@ -14,7 +14,7 @@ It's based on our survey paper:
 
 ##  📣 Update News
 
-`[2024-08-21]` Prospero registration approved (ID=[CRD42024578082](https://www.crd.york.ac.uk/prospero/display_record.php?ID=CRD42024578082))
+`[2024-08-21]` Prospero registration approved (ID=<a href="https://www.crd.york.ac.uk/prospero/display_record.php?ID=CRD42024578082" target="_blank">CRD42024578082</a>)
 
 `[2024-08-10]` Title & Abstract Screening begins
 
@@ -35,8 +35,8 @@ This survey provides a comprehensive overview of the principles, applications, a
 This survey aims to provide insights into the opportunities and challenges of NLP/LLMs in SDoH, and serve as a practical resource for constructing effective SDoH NLP/LLMs.
 
 ## 👍 Acknowledgement
-* [GitHub Repository template](https://github.com/AI-in-Health/MedLLMsPracticalGuide)
-* Parts of this web page were adopted from the [Nerfies](https://nerfies.github.io/) page.
+* <a href="https://github.com/AI-in-Health/MedLLMsPracticalGuide" target="_blank">GitHub Repository template</a>
+* Parts of this web page were adapted from the <a href="https://nerfies.github.io/" target="_blank">Nerfies</a> page.
 
 ## 📑 Citation
 
