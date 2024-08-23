@@ -42,6 +42,15 @@ Please consider citing 📑 our paper if our repository is helpful to your work.
 ```bibtex
 @article{}
 ```
+
+<!---
+### ✨ Contributors
+
+<a href="https://github.com/nlp4sdoh/review/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=nlp4sdoh/review" />
+</a>
+--->
+
 ### 👍 Acknowledgement
 * <a href="https://github.com/AI-in-Health/MedLLMsPracticalGuide" target="_blank">GitHub Repository template</a>
 * Parts of this web page were adapted from the <a href="https://nerfies.github.io/" target="_blank">Nerfies</a> page.
