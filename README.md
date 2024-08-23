@@ -34,18 +34,19 @@ This survey provides a comprehensive overview of the principles, applications, a
 
 This survey aims to provide insights into the opportunities and challenges of NLP/LLMs in SDoH, and serve as a practical resource for constructing effective SDoH NLP/LLMs.
 
-## 👍 Acknowledgement
-* <a href="https://github.com/AI-in-Health/MedLLMsPracticalGuide" target="_blank">GitHub Repository template</a>
-* Parts of this web page were adapted from the <a href="https://nerfies.github.io/" target="_blank">Nerfies</a> page.
+## 📚 Studies
+THE LIST IS CURRENTLY IN-PROGRESS, PLEASE CHECK BACK LATER.
 
-## 📑 Citation
-
+### 📑 Citation
 Please consider citing 📑 our paper if our repository is helpful to your work.
 ```bibtex
 @article{}
 ```
+### 👍 Acknowledgement
+* <a href="https://github.com/AI-in-Health/MedLLMsPracticalGuide" target="_blank">GitHub Repository template</a>
+* Parts of this web page were adapted from the <a href="https://nerfies.github.io/" target="_blank">Nerfies</a> page.
 
-## Website License
+### Website License
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
 
 
