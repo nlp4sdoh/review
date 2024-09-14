@@ -14,6 +14,8 @@ It's based on our survey paper:
 
 ##  📣 Update News
 
+`[2024-09-03]` JMIR Research Protocol Preprint available <a href="https://preprints.jmir.org/preprint/66094" target="_blank">preprints.jmir.org/preprint/66094</a>
+
 `[2024-08-21]` Prospero registration approved (ID=<a href="https://www.crd.york.ac.uk/prospero/display_record.php?ID=CRD42024578082" target="_blank">CRD42024578082</a>)
 
 `[2024-08-10]` Title & Abstract Screening begins
