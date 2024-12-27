@@ -13,6 +13,7 @@ This is an actively updated list of practical guide resources for Natural Langua
 It's based on our survey paper: 
 
 ##  📣 Update News
+`[2024-09-03]` JMIR Research Protocol Accepted and available at <a href="https://doi.org/10.2196/66094" target="_blank">doi.org/10.2196/66094</a>
 
 `[2024-09-03]` JMIR Research Protocol Preprint available <a href="https://preprints.jmir.org/preprint/66094" target="_blank">preprints.jmir.org/preprint/66094</a>
 
