@@ -43,10 +43,46 @@ This survey aims to provide insights into the opportunities and challenges of NL
 THE LIST IS CURRENTLY IN-PROGRESS, PLEASE CHECK BACK LATER.
 
 ### 📑 Citation
-Please consider citing 📑 our paper if our repository is helpful to your work.
+Please consider citing 📑 our papers if our repository is helpful to your work.
 ```bibtex
-@article{}
+@Article{info:doi/10.2196/83793,
+author="Rajwal, Swati
+and Pandey, Avinash Kumar
+and Zhang, Ziyuan
+and Chen, Yankai
+and Liu, Michael X.
+and Das, Sudeshna
+and Rogers, Hannah
+and Sarker, Abeed
+and Xiao, Yunyu",
+title="Applications of Natural Language Processing and Large Language Models for Social Determinants of Health: Protocol for a Systematic Review",
+journal="JMIR Res Protoc",
+year="2026",
+doi="10.2196/83793",
+url="https://doi.org/10.2196/83793"
+}
 ```
+
+```bibtex
+@Article{info:doi/10.2196/66094,
+author="Rajwal, Swati
+and Zhang, Ziyuan
+and Chen, Yankai
+and Rogers, Hannah
+and Sarker, Abeed
+and Xiao, Yunyu",
+title="Applications of Natural Language Processing and Large Language Models for Social Determinants of Health: Protocol for a Systematic Review",
+journal="JMIR Res Protoc",
+year="2025",
+month="Jan",
+day="21",
+volume="14",
+pages="e66094",
+issn="1929-0748",
+doi="10.2196/66094",
+url="https://www.researchprotocols.org/2025/1/e66094",
+url="https://doi.org/10.2196/66094"
+}```
 
 <!---
 ### ✨ Contributors
