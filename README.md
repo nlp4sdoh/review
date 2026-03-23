@@ -82,7 +82,8 @@ issn="1929-0748",
 doi="10.2196/66094",
 url="https://www.researchprotocols.org/2025/1/e66094",
 url="https://doi.org/10.2196/66094"
-}```
+}
+```
 
 <!---
 ### ✨ Contributors
